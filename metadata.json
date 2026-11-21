@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix ربات موزیکال روبیکا | پریا چش رنگی",
+  "description": "پنل مدیریت، موتور ربات موزیکال پایتون روبیکا، پخش زنده ویسکال گروهی و ساخت APK با گیت‌هاب — سازنده: پریا چش رنگی",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
